@@ -1,7 +1,7 @@
 
 <h2 dir="ltr">InputSecureJS</h2>
 
-[![SecureInputs Preview](https://amir8218.ir/GitHub/SecureInputs/Screenshot/preview.png)](https://amir8218.ir/GitHub/SecureInputs/Project/)
+[![SecureInputs Preview](http://amir8218.ir/GitHub/InputSecureJS/images/img.png)](https://github.com/Amir-Hosein-Amiri/InputSecureJS)
 ---
 
 <h2 dir="ltr">About</h2>
