@@ -61,6 +61,9 @@ You can also configure each input with attributes:
 - `data-allow`, `data-badwords`, `data-allow-copy`, `data-allow-paste`
 - `data-enable-xss-filter`, `data-enable-sql-filter`, `data-enable-badwords-filter`, etc.
 
+<a href="https://github.com/Amir-Hosein-Amiri/InputSecureJS/blob/main/help.md" target="_blank">Complete Project Usage Guide</a>
+
+
 <details>
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
@@ -80,6 +83,9 @@ You can also configure each input with attributes:
 اتریبیوت‌های قابل پشتیبانی:
 - `data-allow`, `data-badwords`, `data-allow-copy`, `data-allow-paste`
 - `data-enable-xss-filter`, `data-enable-sql-filter`, `data-enable-badwords-filter`, و غیره
+
+<a href="https://github.com/Amir-Hosein-Amiri/InputSecureJS/blob/main/help.md" target="_blank">راهنمای کامل استفاده از پروژه</a>
+
 </details>
 
 ---
