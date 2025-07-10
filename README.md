@@ -1,10 +1,10 @@
 
-<h2 dir="ltr">InputSecureJS / فیلتر امنیتی فرم</h2>
+<h2 dir="ltr">InputSecureJS</h2>
 
 [![SecureInputs Preview](https://amir8218.ir/GitHub/SecureInputs/Screenshot/preview.png)](https://amir8218.ir/GitHub/SecureInputs/Project/)
 ---
 
-<h2 dir="ltr">About / درباره</h2>
+<h2 dir="ltr">About</h2>
 
 InputSecureJS is a lightweight JavaScript utility that sanitizes and filters form inputs in real-time.
 This tool was created to help developers protect their input fields against common threats like SQL Injection, XSS, emoji spam, bad words, and character set mismatches — especially in multilingual web projects.
@@ -17,7 +17,7 @@ InputSecureJS یک ابزار سبک جاوااسکریپتی است که به�
 </details>
 
 ---
-<h2 dir="ltr">Features / قابلیت‌ها</h2>
+<h2 dir="ltr">Features</h2>
 
 - Free to use and open-source
 - Filters: XSS, SQL injection, emojis, bad words
@@ -42,7 +42,7 @@ InputSecureJS یک ابزار سبک جاوااسکریپتی است که به�
 </details>
 
 ---
-<h2 dir="ltr">How to Use / نحوه استفاده</h2>
+<h2 dir="ltr">How to Use</h2>
 
 ### ○ Include in your HTML:
 ```html
@@ -89,13 +89,13 @@ You can also configure each input with attributes:
 </details>
 
 ---
-<h2 dir="ltr">Demo Page / صفحه‌ی تست</h2>
+<h2 dir="ltr">Demo Page</h2>
 
 Test page is available at:  
 <a href="https://amir8218.ir/GitHub/SecureInputs/Project/" target="_blank">Live Demo</a>
 
 ---
-<h2 dir="ltr">Future Plans / برنامه‌های آینده</h2>
+<h2 dir="ltr">Future Plans</h2>
 
 If supported with a ⭐, we will add the following features in future versions:
 
@@ -119,7 +119,7 @@ If supported with a ⭐, we will add the following features in future versions:
 </details>
 
 ---
-<h2 dir="ltr">Support / حمایت</h2>
+<h2 dir="ltr">Support</h2>
 
 If you find InputSecureJS useful, please star ⭐ the repository and share it.  
 Your support motivates future improvements.
@@ -132,7 +132,7 @@ Your support motivates future improvements.
 </details>
 
 ---
-<h2 dir="ltr">Contact / ارتباط با من</h2>
+<h2 dir="ltr">Contact</h2>
 
  <p dir="auto">
     <a href="https://wa.me/+989201342023" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-url?style=for-the-badge&logo=WhatsApp&logoColor=%2325D366&color=%23082032" alt="WhatsApp" style="max-width: 100%;"></a>
