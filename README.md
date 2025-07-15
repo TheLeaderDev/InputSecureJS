@@ -9,7 +9,7 @@
 InputSecureJS is a lightweight JavaScript utility that sanitizes and filters form inputs in real-time.
 This tool was created to help developers protect their input fields against common threats like SQL Injection, XSS, emoji spam, bad words, and character set mismatches — especially in multilingual web projects.
 
-<details>
+<details dir="rtl">
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
 InputSecureJS یک ابزار سبک جاوااسکریپتی است که به‌صورت لحظه‌ای ورودی‌های فرم را پاک‌سازی و فیلتر می‌کند.
@@ -35,7 +35,7 @@ InputSecureJS یک ابزار سبک جاوااسکریپتی است که به�
 
 
 
-<details>
+<details dir="rtl">
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
 - رایگان و متن‌باز
@@ -76,7 +76,7 @@ You can also configure each input with attributes:
 <a href="https://github.com/Amir-Hosein-Amiri/InputSecureJS/blob/main/help.md" target="_blank">Complete Project Usage Guide</a>
 
 
-<details>
+<details dir="rtl">
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
 ### ○ افزودن به HTML:
@@ -120,7 +120,7 @@ If supported with a ⭐, we will add the following features in future versions:
 
 
 
-<details>
+<details dir="rtl">
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 اگر حمایت شود ⭐، در نسخه‌های آینده این ویژگی‌ها را اضافه می‌کنیم:
 
@@ -136,7 +136,7 @@ If supported with a ⭐, we will add the following features in future versions:
 If you find InputSecureJS useful, please star ⭐ the repository and share it.  
 Your support motivates future improvements.
 
-<details>
+<details dir="rtl">
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
 اگر InputSecureJSبراتون مفید بود لطفاً به پروژه ⭐ بدید و آن را به اشتراک بگذارید.  
