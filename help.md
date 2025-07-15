@@ -2,8 +2,15 @@
 #  Full Tutorial and Usage Guide for InputSecureJS 📃
 
 On this page, you’ll learn exactly how the InputSecureJS script works.
-All its settings and options are explained with examples,
-so you can easily implement this script in all your HTML projects.
+All its settings and options are explained with examples, so you can easily use this script in your HTML projects.
+
+You can test all features live through the link below :
+<a href="https://github.com/Amir-Hosein-Amiri/InputSecureJS/blob/main/help.md" target="_blank">Online Demo and Customization</a>
+
+Additionally, graphical customization and exporting of the global configuration settings are available.
+⭐ With your support, a more advanced graphical customization section will be added in the future.
+
+Now, let’s go through the detailed explanations of the script step-by-step and section-by-section :
 
 ---
 
