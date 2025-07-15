@@ -19,26 +19,38 @@ InputSecureJS یک ابزار سبک جاوااسکریپتی است که به�
 ---
 <h2 dir="ltr">Features</h2>
 
-- Free to use and open-source
-- Filters: XSS, SQL injection, emojis, bad words
-- Supports Persian, English, multi-language
-- Configurable per input via attributes
-- Blocks paste or copy if needed
-- Prevents suspicious unicode and dangerous characters
-- Easy to install, just one file
-- Lightweight and fast
+- Free and open-source
+- Filters: XSS, SQL injection, emojis, and inappropriate words
+- Automatically removes suspicious or dangerous Unicode characters
+- Supports Persian, English, and multilingual inputs
+- Configurable per field using HTML attributes
+- Allows defining allowed input types (letters, numbers, mixed, no spaces, etc.)
+- Allows adding extra permitted characters
+- Allows setting maximum input length
+- Option to disable paste and copy individually
+- Each filter can be enabled or disabled globally or per field
+- Debug mode to inspect input changes
+- Easy to install with a single file
+- Lightweight, fast, and dependency-free
+
+
 
 <details>
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
 - رایگان و متن‌باز
 - فیلتر کردن: XSS، تزریق SQL، ایموجی، کلمات نامناسب
-- پشتیبانی از فارسی، انگلیسی و چندزبانه
-- تنظیم‌پذیر برای هر فیلد با اتریبیوت‌های HTML
-- امکان غیرفعال کردن paste یا copy
-- حذف کاراکترهای مشکوک یا خطرناک یونیکد
-- نصب آسان فقط با یک فایل
-- سبک و سریع
+- حذف خودکار کاراکترهای مشکوک یا خطرناک یونیکد
+- پشتیبانی از فارسی، انگلیسی و زبان‌های چندگانه
+- تنظیم‌پذیر برای هر فیلد با استفاده از اتریبیوت‌های HTML
+- امکان تعیین نوع ورودی مجاز (حروف، اعداد، ترکیبی، بدون فاصله و...)
+- امکان تنظیم حروف یا کاراکترهای مجاز اضافه
+- امکان تنظیم حداکثر تعداد کاراکتر ورودی
+- امکان غیرفعال‌سازی paste و copy به‌صورت جداگانه
+- امکان فعال یا غیرفعال‌سازی هر فیلتر به‌صورت سراسری یا در سطح هر فیلد
+- حالت Debug برای بررسی تغییرات ورودی‌ها
+- نصب آسان تنها با یک فایل
+- سبک، سریع و بدون وابستگی
 </details>
 
 ---
