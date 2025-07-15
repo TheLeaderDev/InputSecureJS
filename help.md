@@ -1,7 +1,9 @@
 
-# Secure Input Sanitizer 🛡️
+#  Full Tutorial and Usage Guide for InputSecureJS 📃
 
-This document describes the configuration options and attributes supported by the SecureInputs script for sanitizing HTML inputs.
+On this page, you’ll learn exactly how the InputSecureJS script works.
+All its settings and options are explained with examples,
+so you can easily implement this script in all your HTML projects.
 
 ---
 
