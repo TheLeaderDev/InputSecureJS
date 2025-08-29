@@ -104,7 +104,7 @@ You can also configure each input with attributes:
 <h2 dir="ltr">Demo Page</h2>
 
 Test page is available at:  
-<a href="https://amir8218.ir/GitHub/InputSecureJS/" target="_blank">Live Demo</a>
+<a href="https://inputsecurejs.vercel.app/" target="_blank">Live Demo</a>
 
 ---
 <h2 dir="ltr">Future Plans</h2>
